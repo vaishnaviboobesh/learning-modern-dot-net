@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CodewarsKata": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningModernDotNet.Web", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningModernDotNet.Tests", "LearningModernDotNet.Tests\LearningModernDotNet.Tests.csproj", "{55F0CD76-5EF0-B87C-48E1-E78EC5963175}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodewarsKata", "CodewarsKata\CodewarsKata.csproj", "{931ED24E-E519-44B1-8D73-EBEB0EAF80E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodewarsKataTest", "CodewarsKataTest\CodewarsKataTest.csproj", "{D75A9421-B130-40D5-8B92-5F7019A53DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +42,14 @@ Global
 		{55F0CD76-5EF0-B87C-48E1-E78EC5963175}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55F0CD76-5EF0-B87C-48E1-E78EC5963175}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55F0CD76-5EF0-B87C-48E1-E78EC5963175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931ED24E-E519-44B1-8D73-EBEB0EAF80E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931ED24E-E519-44B1-8D73-EBEB0EAF80E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931ED24E-E519-44B1-8D73-EBEB0EAF80E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931ED24E-E519-44B1-8D73-EBEB0EAF80E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75A9421-B130-40D5-8B92-5F7019A53DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75A9421-B130-40D5-8B92-5F7019A53DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75A9421-B130-40D5-8B92-5F7019A53DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75A9421-B130-40D5-8B92-5F7019A53DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
